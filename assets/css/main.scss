@@ -3,9 +3,34 @@
 # Change this file for any custom CSS.
 ---
 
+
+:root {
+  --magenta: #e72b6a;
+}
+
+
+/* font face */
+@font-face {
+  font-family: 'Lato';
+  src: font-url('Lato-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LatoLight';
+  src: font-url('Lato-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
+}
+
+.link {
+	color: var(--magenta);
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

@@ -1,19 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: wandrer.earth news
+description: Keeping track of the weird, strange, and interesting finds in our quest to travel every road in the world
+meta_description: "Keeping track of the weird, strange, and interesting finds in our quest to travel every road in the world"
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /kasper
-domain_name: "http://yourblog-domain.com"
+baseurl: ""
+domain_name: "http://wandrer-earth.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+author: "Pearl@wandrer"
 
 # Disqus config
 disqus-shortname: ""
