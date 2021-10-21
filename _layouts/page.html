@@ -12,14 +12,14 @@ post_class: post-template page-template
     style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
     <nav class="main-nav {% if page.cover %} overlay {% endif %} clearfix">
         <a class="back-button icon-arrow-left" href="{{'/' | relative_url }}">Home</a>
-        <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }}">Subscribe</a>
+        <!-- <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }}">Subscribe</a> -->
     </nav>
 </header>
 
 
 <main class="content" role="main">
     <article class="post">
-        <!-- <header class="post-header">
+        <header class="post-header">
             <a id="blog-logo" href="{{site.baseurl}}">
                 {% if site.logo %}
                     <img src="{{site.logo}}" alt="{{ site.name }}" />
@@ -27,7 +27,7 @@ post_class: post-template page-template
                     <span class="blog-title">{{ site.name }}</span>
                 {%endif%}
             </a>
-        </header> -->
+        </header>
 
         <h1 class="post-title">{{ page.title }}</h1>
 

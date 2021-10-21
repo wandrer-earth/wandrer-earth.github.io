@@ -1,10 +1,10 @@
-name: wandrer.earth news
-description: Keeping track of the weird, strange, and interesting finds in our quest to travel every road in the world
+name: Wandrer newest/latest
+description: Keeping track of the weird, the strange, and the interesting in our quest to travel every road in the world
 meta_description: "Keeping track of the weird, strange, and interesting finds in our quest to travel every road in the world"
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: "/assets/images/wandrer-logo.png"
 paginate: 15
 baseurl: ""
 domain_name: "http://wandrer-earth.github.io"
@@ -13,7 +13,7 @@ plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Pearl@wandrer"
+author: "pearl"
 
 # Disqus config
 disqus-shortname: ""

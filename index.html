@@ -12,11 +12,15 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{'feed.xml' | relative_url }} ">Subscribe</a>
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
+            <div style="display: flex; flex-direction: row; align-items: baseline; gap: 10px;">
+              <a class="logo" href="http://wandrer.earth">
+                <img src="{{site.logo}}" alt="{{ site.name }}" />
+              </a>
+              <h1 class="page-title">news</h1>
+            </div>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
             </h2>
