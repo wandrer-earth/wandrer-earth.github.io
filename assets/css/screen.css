@@ -901,7 +901,7 @@ body:not(.post-template) .post-title {
 /* Keep images centred and within the bounds of the post-width */
 .post-content img {
     display: block;
-    max-width: 60%;
+    width: 60%;
     height: auto;
     margin: 0 auto;
     padding: 0.6em 0;
