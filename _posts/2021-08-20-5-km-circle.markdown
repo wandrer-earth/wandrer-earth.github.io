@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Display a 5 km circle on your map"
+date:   2021-08-20 10:18:00
+categories: features news
+cover: false
+---
+
+Craig recently added the option for our Australian friends to add a 5km circle on top of their Wandrer map in order to explore right up to the edge of allowable roads during lockdown. If you've ridden in Australia in the last month, then you should see a 5km button on the left-hand side of your screen. Click that button to activate!
+
+<img src="/assets/images/2021-08-20-5km.jpeg" style="width: 100% !important">
