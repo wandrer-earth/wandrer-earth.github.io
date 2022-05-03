@@ -497,6 +497,12 @@ margin on the iframe, cause it breaks stuff. */
     overflow: hidden;
 }
 
+.main-header::cover {
+    background-image: url({{ page.cover }});
+    opacity: 0.15;
+
+}
+
 .main-header .inner {
     width: 80%;
 }

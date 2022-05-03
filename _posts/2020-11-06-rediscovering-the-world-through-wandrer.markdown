@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rediscovering the world through Wandrer"
-date:   2019-09-08 10:18:00
+date:   2020-11-06 10:18:00
 categories: news blogposts
 cover: False
 ---

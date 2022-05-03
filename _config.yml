@@ -10,7 +10,6 @@ baseurl: ""
 domain_name: "http://wandrer-earth.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
-cover: "/assets/images/cover.png"
 
 # Details for the RSS feed generator
 url: ""
