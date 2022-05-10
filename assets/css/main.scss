@@ -2,7 +2,7 @@
 # Let's add a comment to make this file sass-y.
 # Change this file for any custom CSS.
 ---
-
+@import 'type.css';
 
 :root {
   --magenta: #e72b6a;
@@ -26,6 +26,7 @@ html, body {
   height: 100%;
 }
 body {
+  font-size: 1.4rem;
   display: flex;
   flex-direction: column;
 }
@@ -35,7 +36,6 @@ body {
 .header, .footer {
   flex-shrink: 0;
 }
-
 
 .container-body-margin {
   box-sizing: border-box;
@@ -56,8 +56,13 @@ body {
   }
 }
 
+// Styling components
 .has-background-light-gray {
   background-color: #f6f6f6;
+}
+
+.small {
+  font-size: 1.2rem;
 }
 
 img {
@@ -88,20 +93,79 @@ header {
 // FOOTER
 footer {
   padding: 37px 0;
-  margin-top: 2.4rem;
-  .row {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  }
+  margin-top: 1.5em;
   a {
     text-decoration: none;
   }
-}
+  .copyright-strava-api-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    gap: 2.4rem;
 
-.footer-links-row {
-  display: flex;
-  flex-direction: row;
-  gap: 2.4rem;
-  align-items: center;
+  }
+  .icon-group {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2.4rem;
+    a {
+      margin-top: 0;
+    }
+    @media (max-width: 992px) {
+      gap: 3.4rem;
+      margin-top: 3.4rem;
+      margin-bottom: 3.4rem;
+      img {
+        width: 4.0rem;
+        height: 4.0rem;
+      }
+
+    }
+    @media (max-width: 599px) {
+      gap: 4.0rem;
+      margin-top: 2.4rem;
+    }
+
+
+  }
+  .icon-strava-powered {
+    height: 20px;
+  }
+  .footer-links-icons-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    @media (max-width: 992px) {
+      flex-direction: column;
+    }
+  }
+  .footer-links-row {
+    display: flex;
+    flex-direction: row;
+    gap: 2.4rem;
+    align-items: center;
+    @media (max-width: 599px) {
+      flex-direction: column;
+      align-items: flex-start;
+      a {
+        margin-top: 0;
+      }
+    }
+  }
+  @media (max-width: 992px) {
+    padding: 24px 0;
+
+    @media (max-width: 768px) {
+      a {
+        font-size: 18px;
+        margin-top: 1em;
+        &.btn {
+          width: 50%;
+          font-size: 1.25em;
+        }
+      }
+    }
+  }
 }
