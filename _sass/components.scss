@@ -37,14 +37,27 @@ body {
   }
 }
 
+.container-post {
+  display: block;
+  width: 720px;
+  justify-content: center;
+  margin: auto;
+  img {
+    width: -webkit-fill-available;
+  }
+  @media (max-width: 1223px) {
+    width: 100%
+  }
+}
+
 .breadcrumb {
   display: -webkit-box;
   display: flex;
   flex-wrap: wrap;
   font-weight: bold;
   font-size: 1.4rem;
-  margin-bottom: 1.5rem;
-  padding: 0.75rem 1rem;
+  padding-left: 0;
+  margin-bottom: 2.4rem;
   list-style: none;
   border-radius: 0.25rem;
 
