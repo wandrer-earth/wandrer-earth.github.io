@@ -1,0 +1,25 @@
+---
+# Let's add a comment to make this file sass-y.
+# Change this file for any custom CSS.
+---
+
+:root {
+  --magenta: #e72b6a;
+}
+
+.link {
+	color: var(--magenta);
+}
+
+// Styling components
+.has-background-light-gray {
+  background-color: #f6f6f6;
+}
+
+.small {
+  font-size: 1.2rem;
+}
+
+img {
+  flex-shrink: 0;
+}

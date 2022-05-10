@@ -1,4 +1,25 @@
+// COMPONENTS
+html {
+  font-size: 62.5%;
+}
+
+html, body {
+  height: 100%;
+}
+body {
+  font-size: 1.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+.header, .footer {
+  flex-shrink: 0;
+}
+
 .container-body-margin {
+  box-sizing: border-box;
   width: 1176px;
   margin-right: auto;
   margin-left: auto;
