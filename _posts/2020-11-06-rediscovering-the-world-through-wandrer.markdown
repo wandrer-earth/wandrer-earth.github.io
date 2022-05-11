@@ -2,7 +2,8 @@
 layout: post
 title:  "Rediscovering the world through Wandrer"
 date:   2020-11-06 10:18:00
-categories: news blogposts
+author: Pearl
+tags: news blogposts
 cover: False
 ---
 

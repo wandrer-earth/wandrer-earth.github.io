@@ -3,7 +3,7 @@ layout: post
 title:  "Wandrer auf Deutsch, en español, en français, in italiano"
 date:   2021-10-10 10:18:00
 author: Pearl
-categories: features
+tags: features
 cover: false
 ---
 

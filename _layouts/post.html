@@ -29,8 +29,8 @@ layout: default
 
     {% assign posts = "" | split: ',' %}
 
-    {% for cat in page.categories %}
-      {% for post in site.categories[cat] %}
+    {% for cat in page.tags %}
+      {% for post in site.tags[cat] %}
         {% unless {{post.title}} == {{page.title}}  %}
           {% unless {{posts}} contains {{post}}  %}
             {% assign posts = posts | push: post %}
@@ -43,7 +43,7 @@ layout: default
       {% for post in posts limit: 2 %}
         <div class="card">
           <div class="card-body">
-            {% assign cats = post.categories %}
+            {% assign cats = post.tags %}
             <small class='smallcaps has-text-warm-grey'>{% for member in cats %}{{ member }}{% if forloop.last != true %}, {% endif %}{% endfor %}
             </small>
             <h4>{{ post.title }}</h4>

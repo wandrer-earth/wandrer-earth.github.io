@@ -3,7 +3,7 @@ layout: post
 title:  "Hidden cowboy"
 date:   2021-10-22 10:18:00
 author: Pearl
-categories: fun community art
+tags: fun community art
 cover: "/assets/images/hidden-cowboy/Seattle-zoom-out.png"
 ---
 
