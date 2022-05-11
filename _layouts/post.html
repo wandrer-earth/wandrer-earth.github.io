@@ -16,17 +16,11 @@ layout: default
   </div>
   <div class='container-post'>
     <h1 class='is-narrow'>{{ page.title }}</h1>
-    <p class='smallcaps has-text-warm-grey date-author-row'>
-      {{ page.date | date: "%-d %B %Y" }} by {{ page.author }}
-    </p>
-    <div class='social-image'>
-      <a href='#' class='social-links-trigger' data-controls='social-links'><i class='bi bi-share'></i></a>
-      <div class='social-links' id='social-links'>
-        <a href='#' class='link-primary'><i class='bi bi-pinterest'></i></a>
-        <a href='#' class='link-primary'><i class='bi bi-facebook'></i></a>
-        <a href='#' class='link-primary'><i class='bi bi-envelope'></i></a>
-        <a href='#' class='link-primary'><i class='bi bi-share-fill'></i></a>
-      </div>
+    <div class='byline-row'>
+      <p class='smallcaps has-text-warm-grey date-author-row'>
+        {{ page.date | date: "%-d %B %Y" }} by {{ page.author }}
+      </p>
+      {% include share.html %}  
     </div>
     {{ content }}
     <!-- Identify related posts using page tags -->

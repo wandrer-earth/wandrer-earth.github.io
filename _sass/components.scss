@@ -125,3 +125,49 @@ body {
     margin-top: 0;
   }
 }
+
+.social-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  position: relative;
+  figure {
+    order: 2;
+  }
+  .social-links-trigger {
+  display: block;
+  align-self: flex-end;
+  font-size: 32px;
+  padding-right: 16px;
+  }
+  figure {
+    max-width: 100%;
+  }
+  .social-links {
+    display: none;
+    align-self: flex-end;
+    &.is-active {
+      font-size: 32px;
+      width: 32px;
+      margin-left: 24px;
+      background-color: white;
+      display: block;
+      position: absolute;
+      width: auto;
+      top: 1.5em;
+      right: 0;
+      padding: 12px 16px;
+      border-radius: 0 0 0 4px;
+      margin-left: 0;
+      a {
+        display: block;
+      }
+    }
+  }}
+
+  .byline-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
