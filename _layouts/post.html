@@ -39,9 +39,6 @@ layout: default
       {% endfor %}
     {% endfor %}
 
-      <small class='smallcaps has-text-warm-grey'> {% for member in posts %}{{ member.title }}{% if forloop.last != true %}, {% endif %}{% endfor %}
-      </small>
-
     <div class="card-grid">
       {% for post in posts limit: 2 %}
         <div class="card">
