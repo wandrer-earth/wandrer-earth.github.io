@@ -76,3 +76,58 @@
        url('../fonts/Lato/lato-v20-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/Lato/lato-v20-latin-700.svg#Lato') format('svg'); /* Legacy iOS */
 }
+
+// Font stylings
+h1 {
+  font-size: 3.4rem;
+  margin-bottom: 1.6rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+h3 {
+  font-size: 2.0rem;
+}
+
+h4 {
+  font-size: 1.8rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  margin-block-start: 3.2rem;
+  margin-block-end: 3.2rem;
+}
+
+.is-narrow {
+  font-weight: 300;
+}
+
+.smallcaps {
+  font-size: 1.0rem;
+  text-transform: uppercase;
+}
+
+.small {
+  font-size: 1.2rem;
+}
+
+.has-text-warm-grey {
+  color: #757575;
+}
+
+.has-text-bold {
+  font-weight: bold;
+}
+
+.link {
+	color: var(--magenta);
+  text-decoration: none;
+}

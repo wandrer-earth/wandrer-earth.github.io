@@ -11,16 +11,12 @@ layout: default
     </nav>
   </div>
   <div class='container-post'>
-    <h2>{{ page.title }}</h2>
-    <p class='smallcaps has-text-warm-grey'>
-      {{ page.date }} by {{ page.author }}
+    <h1 class='is-narrow'>{{ page.title }}</h1>
+    <p class='smallcaps has-text-warm-grey date-author-row'>
+      {{ page.date | date: "%-d %B %Y" }} by {{ page.author }} in {{ page.categories }}
     </p>
     <div class='social-image'>
       <a href='#' class='social-links-trigger' data-controls='social-links'><i class='bi bi-share'></i></a>
-      <figure class='figure'>
-        <img src="assets/img/comp/wandrer_cassette.png" class="figure-img img-fluid rounded" alt="Wandrer tracks your quest to ride every road through meticulous map markings, as shown on this iPhone screen">
-        <figcaption class="figure-caption">Credit: Photographer:; Prop Stylist:</figcaption>
-      </figure>
       <div class='social-links' id='social-links'>
         <a href='#' class='link-primary'><i class='bi bi-pinterest'></i></a>
         <a href='#' class='link-primary'><i class='bi bi-facebook'></i></a>
@@ -28,59 +24,24 @@ layout: default
         <a href='#' class='link-primary'><i class='bi bi-share-fill'></i></a>
       </div>
     </div>
-    <p class='mt-3 has-text-bold'>
-      {{ content }}
+    {{ content }}
+    <h4>Related Stories:</h4>
 
-      Every once in a while I get a bit excited to do short app reviews
-      <a href='https://www.dcrainmaker.com/tag/apps' target='_blank' class='link-primary'>here on the site.</a> Nothing
-      crazy, just talking about smaller apps that I find interesting and that others might never
-      have heard of. The thing is, I keep ‘collecting’ these apps in a giant Todoist list, and
-      keep meaning to write about them. Some of them you might know – some of them not so much.
-      We’ll start with one of the more well-known ones within that context – Wandrer.earth.
-    </p>
-    <p>
-      This site tracks all the roads you’ve ever ridden on planet earth, and then lets you see how much of each ride you complete are ‘new roads’ vs ‘old roads’. It’ll track your monthly/annual new road distances, as well as award virtual points for new road riding. What you (or at least I), quickly realize is that I’m largely a creature of habit – mostly re-riding the same roads over and over. Albeit, sometimes in different directions. That’s of course especially true in 2020 with very little travel. Which is where I’d often rack up new pavement miles for various bike-related events/trips.
-      <br /><br />
-      I’ve been using the site’s free tier for a long while now, so I figured I’d dive into how it works.
-      <br /><br />
-      [Note: For this series, I’m trying to keep these posts to a reasonable length, so they aren’t designed to be crazy-long in-depth reviews that require 8 cups of coffee to get through. As always, none of these posts/reviews are sponsored in any way. I just like highlighting cool apps from smaller developers where I can.]
-    </p>
-    <h3>The Details:</h3>
-    <p>
-      While all new roads award you points in Wandrer, all roads in the fitness tech world seem to end at Strava. And that’s the case here as well, where the platform leverages Strava as your repository for past rides. To get started you’ll link up your Strava account, and then it’ll pull in your past activity.
-    </p>
-    <div class='row'>
-      <div class='col'>
-        <h3>Related Stories:</h3>
-      </div>
+    <div class="card-grid">
+    {% for cat in page.categories %}
+      {% for post in site.categories[cat] %}
+        <div class="card">
+          <div class="card-body">
+            <small class='smallcaps has-text-warm-grey'>{{ cat }}</small>
+            <h4>{{ post.title }}</h4>
+            <span class="post-excerpt">{{ post.excerpt }}</span>
+            <a class='link has-text-bold' href="{{ post.url }}">Read article</a>
+
+          </div>
+        </div>
+
+      {% endfor %}
+    {% endfor %}
     </div>
-    <div class='row'>
-      <div class='col-12 col-sm-6'>
-        <div class='card'>
-          <div class='card-body d-flex flex-column align-items-start'>
-            <img src='assets/img/ext/5krunner_logo.png' alt='5krunner Logo' class='my-5' /><br />
-            <small class='smallcaps has-text-warm-grey'>NEWS</small>
-            <h5 class='card-title'>Wandrer vs. STRAVA Legends plus live date for STRAVA Legends USA & Europe</h5>
-            <p class='card-text flex-grow-1'>Sorry, is local legends too boring for you? You could instead use this free site which gamifies...</p>
-            <a href='#' class='has-text-primary bold-link d-block mt-3'>
-              Read Article
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class='col-12 col-sm-6'>
-        <div class='card'>
-          <div class='card-body d-flex flex-column align-items-start'>
-            <img src='assets/img/ext/cycling_tips.png' alt='Cycling Tips logo' class='my-5' /><br />
-            <small class='smallcaps has-text-warm-grey'>NEWS</small>
-            <h5 class='card-title'>Use Strava to Find Out How Many Unique Miles You’ve Ridden</h5>
-            <p class='card-text flex-grow-1'>Ever wonder how many unique miles (or kilometres) you’ve ridden? Curious how adventurous you really are, compared to your...</p>
-            <a href='#' class='has-text-primary bold-link d-block mt-3'>
-              Read Article
-            </a>
-          </div>
-        </div>
-      </div>
-        </div>
   </div>
 </main>

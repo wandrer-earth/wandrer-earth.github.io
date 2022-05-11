@@ -79,3 +79,45 @@ body {
   padding-right: 0.5rem;
   content: "/";
 }
+
+.date-author-row {
+  margin-top: 1.6rem;
+  margin-bottom: 1.6rem;
+
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: max-content;
+}
+
+.card {
+  position: relative;
+  border-radius: 6px;
+  box-shadow: 1px 1px 8px 0 rgba(0, 0, 0, 0.1);
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  margin: 1.2rem;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 1.6rem 1.6rem;
+  justify-content: space-between;
+  box-sizing: border-box;
+  a {
+    padding-top: 1.6rem;
+  }
+  .post-excerpt p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-top: 0;
+  }
+}
