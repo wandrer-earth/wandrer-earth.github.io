@@ -10,16 +10,3 @@
     {% include footer.html %}
   </body>
 </html>
-
-<script>
-  var socialLinkTriggers = document.querySelectorAll('.social-links-trigger');
-  if (socialLinkTriggers) {
-    socialLinkTriggers.forEach(el => {
-      el.addEventListener('click', (e) => {
-        e.preventDefault();
-        var controls = document.getElementById(el.dataset.controls);
-        controls.classList.toggle('is-active');
-      })
-    })
-  }
-</script>

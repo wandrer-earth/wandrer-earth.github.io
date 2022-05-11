@@ -16,12 +16,9 @@ layout: default
   </div>
   <div class='container-post'>
     <h1 class='is-narrow'>{{ page.title }}</h1>
-    <div class='byline-row'>
-      <p class='smallcaps has-text-warm-grey date-author-row'>
-        {{ page.date | date: "%-d %B %Y" }} by {{ page.author }}
-      </p>
-      {% include share.html %}  
-    </div>
+    <p class='smallcaps has-text-warm-grey date-author-row'>
+      {{ page.date | date: "%-d %B %Y" }} by {{ page.author }}
+    </p>
     {{ content }}
     <!-- Identify related posts using page tags -->
     {% assign posts = "" | split: ',' %}
