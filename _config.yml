@@ -3,5 +3,5 @@ description: Updates from the Wandrer.earth team.
 meta_description: Wandrer is the outdoor game where you win by going places you've never been before.
 
 plugins: [jekyll-paginate]
-paginate: 2
+paginate: 4
 paginate_path: "page:num"
