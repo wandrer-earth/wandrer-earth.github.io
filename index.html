@@ -2,22 +2,13 @@
 layout: default
 ---
 
-<h1 class='is-narrow'>In The News</h1>
+<div class='d-flex flex-row justify-space-between align-items-center'>
+  <h1 class='is-narrow'>In The News</h1>
+  {% include tagselector.html %}
+</div>
 
 {% for post in paginator.posts %}
-  {% if post.cover %}
-    <img class='cover-image' src="{{ post.cover }}">
-  {% endif %}
-  <h4>{{ post.title }}</h4>
-  <p class='smallcaps has-text-warm-grey date-author-row'>
-    {{ post.date | date: "%-d %B %Y" }} by {{ post.author }}
-  </p>
-  {{ post.excerpt }}
-  <a href="{{ post.url }}">Read more</a>
-  <div class='line-copy'></div>
-
-
-
+  {% include teaser.html %}
 {% endfor %}
 
 <!-- Pagination links -->

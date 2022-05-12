@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<!-- {% include breadcrumb.html %} -->
+
+{% for tag in site.tags %}
+  {% if tag[0] == page.tags %}
+    <div class='d-flex flex-row justify-space-between align-items-center'>
+      <h1 class="is-narrow">{{ tag[0] | capitalize }}</h1>
+      {% include tagselector.html %}
+    </div>
+    {% for post in tag[1] %}
+      {% include teaser.html %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}

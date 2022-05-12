@@ -64,7 +64,6 @@ body {
   border-radius: 0.25rem;
 
   a {
-    color: #e72b6a;
     text-decoration: none;
     &:hover {
       text-decoration: underline;
@@ -84,7 +83,31 @@ body {
 .date-author-row {
   margin-top: 1.6rem;
   margin-bottom: 1.6rem;
+  a {
+    color: inherit;
+    &:hover {
+      color: var(--magenta);
+      font-weight: bold;
+    }
+  }
+}
 
+/* Selects */
+select.tag-selector {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 1px solid #f2f2f2;
+  height: 40px;
+  border-radius: 20px;
+  padding-right: 2em;
+  padding-left: 1em;
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23e72b6a" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');
+  background-size: .8em;
+  background-position: calc(100% - .8em) center;
+  background-repeat: no-repeat;
+  &:focus {
+    outline: none;
+  }
 }
 
 .card-grid {
@@ -183,4 +206,20 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
 }

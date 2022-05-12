@@ -2,18 +2,7 @@
 layout: default
 ---
 <main>
-  <div class=''>
-    <nav aria-label='breadcrumb'>
-      <ol class='breadcrumb'>
-        <li class='breadcrumb-item'><a href='{{site.url}}'>In The News</a></li>
-        <li class='breadcrumb-item'>
-        {% for tag in page.tags %}
-          <a href='#'>{{ tag | capitalize }}</a><span>{% if forloop.last != true %}, {% endif %}</span>
-        {% endfor %}
-        </li>
-      </ol>
-    </nav>
-  </div>
+  {% include breadcrumb.html %}
   <div class='container-post'>
     <h1 class='is-narrow'>{{ page.title }}</h1>
     <p class='smallcaps has-text-warm-grey date-author-row'>
