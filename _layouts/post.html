@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<main>
+  {% include breadcrumb.html %}
+  <div class='container-post'>
+    <h1 class='is-narrow'>{{ page.title }}</h1>
+    <p class='smallcaps has-text-warm-grey date-author-row'>
+      {{ page.date | date: "%-d %B %Y" }} by {{ page.author }}
+    </p>
+    {{ content }}
+    <!-- Identify related posts using page tags -->
+    {% assign posts = "" | split: ',' %}
+    {% for cat in page.tags %}
+      {% for post in site.tags[cat] %}
+        {% unless post.title == page.title  %}
+          {% unless posts contains post  %}
+            {% assign posts = posts | push: post %}
+          {% endunless %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    <!-- We only want to display related stories if there are related stories -->
+    {% if posts.size > 0 %}
+      <h4>Related Stories:</h4>
+      <div class="card-grid">
+        {% for post in posts limit: 2 %}
+          <div class="card">
+            <div class="card-body">
+              {% assign cats = post.tags %}
+              <small class='smallcaps has-text-warm-grey'>{% for member in cats %}{{ member }}{% if forloop.last != true %}, {% endif %}{% endfor %}
+              </small>
+              <h4>{{ post.title }}</h4>
+              <span class="post-excerpt">{{ post.excerpt }}</span>
+              <a class='link has-text-bold' href="{{ post.url }}">Read article</a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
+</main>

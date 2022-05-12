@@ -2,4 +2,30 @@
 layout: default
 ---
 
-<span>This is a test</span>
+<div class='d-flex flex-row justify-space-between align-items-center'>
+  <h1 class='is-narrow'>In The News</h1>
+  {% include tagselector.html %}
+</div>
+
+{% for post in paginator.posts %}
+  {% include teaser.html %}
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class='btn btn-primary-transparent has-text-bold'>
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class='btn btn-primary-transparent has-text-bold'>Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>

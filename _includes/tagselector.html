@@ -1,0 +1,33 @@
+<select class='tag-selector' name='tag' id='tag-selector'>
+<option>All articles</option>
+{% for tag in site.tags %}
+  <option {% if tag[0] == page.tags %}selected{% endif %}>{{ tag[0] | capitalize }}</option>
+{% endfor %}
+</select>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    var tagSelectActions = document.querySelectorAll('select.tag-selector');
+
+    if (tagSelectActions) {
+      tagSelectActions.forEach(selectBtn => {
+        selectBtn.addEventListener('change', (e) => {
+          e.preventDefault();
+          loadTag(e)
+        });
+      })
+    }
+  })
+
+  function loadTag(e) {
+    let input = e.target.closest('.tag-selector');
+    let tag = input.value;
+    const tags = [{% for tag in site.tags %}"{{ tag[0] | capitalize }}", {% endfor %}] ;
+    if (tags.includes(tag)) {
+      window.location = `{{site.url}}/${tag}`;
+    }
+    else {
+      window.location = `{{site.url}}`;
+    }
+  }
+</script>

@@ -2,7 +2,8 @@
 layout: post
 title:  "pandasdoitbetter and wandrer"
 date:   2019-09-08 10:18:00
-categories: news blogposts
+author: Pearl
+tags: news blogposts
 cover: False
 ---
 

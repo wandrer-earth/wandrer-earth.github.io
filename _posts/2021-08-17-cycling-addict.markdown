@@ -2,7 +2,8 @@
 layout: post
 title:  "Having more fun with Wandrer"
 date:   2021-08-17 10:18:00
-categories: news blogposts
+author: Pearl
+tags: news blogposts
 cover: False
 ---
 

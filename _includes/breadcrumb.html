@@ -1,0 +1,12 @@
+<div class=''>
+  <nav aria-label='breadcrumb'>
+    <ol class='breadcrumb'>
+      <li class='breadcrumb-item'><a href='{{site.url}}'>In The News</a></li>
+      <li class='breadcrumb-item'>
+      {% for tag in page.tags %}
+        <a href='{{site.url}}/{{tag}}'>{{ tag | capitalize }}</a><span>{% if forloop.last != true %}, {% endif %}</span>
+      {% endfor %}
+      </li>
+    </ol>
+  </nav>
+</div>
