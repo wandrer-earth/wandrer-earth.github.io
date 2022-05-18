@@ -3,7 +3,7 @@ layout: post
 title:  "Display a 5 km circle on your map"
 date:   2021-08-20 10:18:00
 author: Pearl
-tags: features news
+tags: features updates
 cover: false
 ---
 

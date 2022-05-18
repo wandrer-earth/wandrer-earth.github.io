@@ -3,7 +3,7 @@ layout: post
 title:  "I am a Wandrer!"
 date:   2021-08-16 10:18:00
 author: Pearl
-tags: news blogposts
+tags: reviews
 cover: False
 ---
 

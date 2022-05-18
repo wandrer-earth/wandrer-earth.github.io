@@ -3,7 +3,7 @@ layout: post
 title:  "Article about Wandrer in CyclingTips"
 date:   2019-08-29 10:18:00
 author: Pearl
-tags: news
+tags: articles reviews
 cover: False
 ---
 

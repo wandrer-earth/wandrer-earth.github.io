@@ -1,5 +1,5 @@
 <select class='tag-selector' name='tag' id='tag-selector'>
-<option>All articles</option>
+<option>All posts</option>
 {% for tag in site.tags %}
   <option {% if tag[0] == page.tags %}selected{% endif %}>{{ tag[0] | capitalize }}</option>
 {% endfor %}
@@ -21,8 +21,8 @@
 
   function loadTag(e) {
     let input = e.target.closest('.tag-selector');
-    let tag = input.value;
-    const tags = [{% for tag in site.tags %}"{{ tag[0] | capitalize }}", {% endfor %}] ;
+    let tag = input.value.toLowerCase();
+    const tags = [{% for tag in site.tags %}"{{ tag[0] }}", {% endfor %}] ;
     if (tags.includes(tag)) {
       window.location = `{{site.url}}/${tag}`;
     }

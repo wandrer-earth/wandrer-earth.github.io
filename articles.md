@@ -1,4 +1,4 @@
 ---
 layout: tag
-tags: news
+tags: articles
 ---

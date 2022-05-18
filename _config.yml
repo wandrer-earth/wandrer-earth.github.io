@@ -1,6 +1,6 @@
-name: Wandrer news
-description: Updates from the Wandrer.earth team.
-meta_description: Wandrer is the outdoor game where you win by going places you've never been before.
+name: Wandrer News
+description: News, updates, and reviews about Wandrer.Earth
+meta_description: News, updates, and reviews about Wandrer, the outdoor game you win by going places you've never been before.
 
 plugins: [jekyll-paginate]
 paginate: 4
