@@ -9,15 +9,7 @@ html, body {
 body {
   font-family: 'Lato';
   font-size: 1.4rem;
-  display: flex;
-  flex-direction: column;
   margin: 0;
-}
-.content {
-  flex: 1 0 auto;
-}
-.header, .footer {
-  flex-shrink: 0;
 }
 
 .container-body-margin {
