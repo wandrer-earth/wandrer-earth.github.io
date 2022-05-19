@@ -5,6 +5,7 @@ date:   2021-10-22 10:18:00
 author: Pearl
 tags: community
 cover: "/assets/images/hidden-cowboy/Seattle-zoom-out.png"
+show_cover_on_article: False
 ---
 
 A fun consequence of working at Wandrer is getting to see lots of different maps of where wandrers have ridden. And sometimes those maps have hidden surprises contained within!
