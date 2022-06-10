@@ -3,7 +3,7 @@ layout: post
 title:  "It came from Wandrer Earth"
 date:   2020-09-08
 author: Pearl
-tags: reviews
+tags: community reviews
 cover: "/assets/images/2020-09-08-a-century-on-city-streets.png"
 show_cover_on_article: True
 cover_caption: "The planned route - a century of no backtracking and all within city limits"
