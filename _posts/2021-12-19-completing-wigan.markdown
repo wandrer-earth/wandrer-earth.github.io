@@ -3,7 +3,7 @@ layout: post
 title:  "Learning Your City, For Better and Worse"
 date:   2021-12-19
 author: Pearl
-tags: reviews
+tags: community
 cover: "/assets/images/2021-12-19-untraveled-wigan.png"
 show_cover_on_article: True
 cover_caption: "Jon's untraveled roads in Wigan, UK (cul de sac-city)"

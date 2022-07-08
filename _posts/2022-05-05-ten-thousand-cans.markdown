@@ -3,7 +3,7 @@ layout: post
 title:  "Ten thousand cans"
 date:   2022-05-05
 author: Craig
-tags: reviews
+tags: community
 cover: "/assets/images/2022-05-05-truemarmalade.jpg"
 show_cover_on_article: True
 cover_caption: "One of many, many abandoned couches in Tucson, Arizona"
