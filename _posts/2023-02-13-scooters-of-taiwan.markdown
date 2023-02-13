@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "What's happening at Wandrer"
+title:  "Scooters of Taiwan"
 date:   2023-02-13
 author: Pearl
 tags: updates community
+cover: "/assets/images/scooters/IMG_9798.png"
 carousels:
   - images:
     - image: "/assets/images/scooters/IMG_9661.png"
@@ -61,4 +62,5 @@ carousels:
     - image: "/assets/images/scooters/IMG_9907.png"
 ---
 Curated by Craig, our favorite scooters of Taiwan. Shortly after we arrived, Craig noticed that there are many, many delightful scooter names and mottos all over the city. There are also a TON of scooters. It's pretty common that we'll be out walking and I'll go to say something to Craig, only to realize that he's giggling to himself about 30 feet behind me at a new scooter. Don't worry, we're not done with the trip and I'll keep updating these as we go! Cheers, your diligent scooter documentation team.
+
 {% include carousel.html height="50" unit="%" duration="5" number="1" %}
