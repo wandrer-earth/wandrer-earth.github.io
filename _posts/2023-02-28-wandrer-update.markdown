@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's happening at Wandrer"
-date:   2023-01-31
+date:   2023-02-28
 author: Pearl
 tags: updates
 ---
