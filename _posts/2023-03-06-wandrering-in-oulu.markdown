@@ -4,13 +4,13 @@ title:  "Wandrering the winter cycling capital of the world"
 date:   2023-03-04
 author: Pearl
 tags: articles community
-cover: "/assets/images/2023-02-18-sunset-ice.png"
+cover: "/assets/images/2023-03-06-sunset-ice.png"
 carousels:
   - images:
-    - image: "/assets/images/2023-02-18-oulu-zoomed-in.png"
-    - image: "/assets/images/2023-02-18-oulu.png"
-    - image: "/assets/images/2023-02-18-oulu-zoom-out.png"
-    - image: "/assets/images/2023-02-18-finland.png"
+    - image: "/assets/images/2023-03-06-oulu-zoomed-in.png"
+    - image: "/assets/images/2023-03-06-oulu.png"
+    - image: "/assets/images/2023-03-06-oulu-zoom-out.png"
+    - image: "/assets/images/2023-03-06-finland.png"
 ---
 Craig and I have very much enjoyed learning more about winter cycling from Wandrer Pekka Tahkola, an urban planner and well-being engineer who lives in Oulu, Finland. We recommend following him on social media ([Instagram](https://www.instagram.com/ptahkola/) / [Twitter](https://twitter.com/pekkatahkola) / [YouTube](https://www.youtube.com/pekkatahkola)). Oulu is the the winter cycling capital of the world and this [BBC News short video](https://www.bbc.com/news/av/world-europe-64354089) and Pekka's head-to-head [Winter Safe Cycling Showdown](https://www.youtube.com/watch?v=ABV7WUJl6fU) make it clear why.
 
@@ -32,7 +32,7 @@ It's perhaps not a big surprise that Pekka has explored quite a lot of Oulu (69.
 
 Now, for those of us who are willing to invest some time and planning into exploration by bike, Pekka says that the northern winter can make it possible to extend adventures. The rivers, lakes, and sea freeze near Oulu, allowing for rides in places that wouldn't normally be possible. Sometimes going [off the Wandrer map](https://twitter.com/pekkatahkola/status/1619024623508799489?s=20) can be rewarding:
 
-![](/assets/images/2023-02-18-sunset-ice.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-03-06-sunset-ice.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 This video on [Pekka's Instagram](https://www.instagram.com/p/BwW3Bo3lCuU/) shows how snow crust conditions can sometimes make it possible to ride on an otherwise impassable swamp. (Sound on for the snow crust crunch!)
 
