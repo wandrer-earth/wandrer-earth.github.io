@@ -32,7 +32,7 @@ We have a few map rule questions for your consideration. Your feedback via [emai
 1. Should access=permit roads be included? Currently they are excluded, but it seems like in many cases it's easy to obtain access to these roads. Do you have a strong opinion about these roads?
 2. Should we remove highway=trunk roads where sidewalk=no or sidewalk=none in the UK for activities on foot? Other highway=trunk roads would stay in Wandrer for foot activities.
 
-![](/assets/images/2023-03-31-march-update/trunk-roads-London.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-03-31-march-update/trunk-roads-London-2.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Should we remove highway=trunk roads where sidewalk=no or sidewalk=none in the UK for activities on foot? This map shows trunk roads in London where the sidewalk is tagged with no or none using the Overpass Turbo website</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Upgraded Map Tile Server
