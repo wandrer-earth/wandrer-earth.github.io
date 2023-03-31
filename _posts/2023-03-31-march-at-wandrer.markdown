@@ -30,10 +30,10 @@ Craig added a new long distance trail to Wandrer, the Katy trail in Missouri (US
 ### Your Feedback Wanted: Map Rule Questions
 We have a few map rule questions for your consideration. Your feedback via [email]((mailto:craig  @wandrer.earth)) is appreciated.
 1. Should access=permit roads be included? Currently they are excluded, but it seems like in many cases it's easy to obtain access to these roads. Do you have a strong opinion about these roads?
-2. Should highway=trunk roads be allowed in the UK for activities on foot? We would exclude trunk roads where sidewalk=no or sidewalk=none.
+2. Should we remove highway=trunk roads where sidewalk=no or sidewalk=none in the UK for activities on foot? Other highway=trunk roads would stay in Wandrer for foot activities.
 
-![](/assets/images/2023-03-31-march-update/trunk-roads-London.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
-<figcaption>Should trunk roads in the UK be included in Wandrer for foot activities? This map shows trunk roads in London where the sidewalk is not tagged with no or none using the Overpass Turbo website</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-03-31-march-update/trunk-roads-London-2.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>Should we remove highway=trunk roads where sidewalk=no or sidewalk=none in the UK for activities on foot? This map shows trunk roads in London where the sidewalk is tagged with no or none using the Overpass Turbo website</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto”}
 
 ### Upgraded Map Tile Server
 This month Craig improved the infrastructure that shows map tiles whenever a Wandrer views the Big Map. These tiles show the underlying map of an area with roads, land, rivers, ocean, etc., and the blue lines that indicate traveled roads (untraveled roads are sent from a different server). Our new infrastructure should be more stable and reliably accurate, especially when updating the data for map regions.
@@ -59,5 +59,5 @@ We're wrapping up Sign Appreciation month! Receiving pictures of silly and inter
 On a personal note, we settled back into life at home after about a week of transition time. I've spent the second half of the month with our baby in central Maine in the northeastern US visiting my parents and one of my sister's family. We don't have the bike trailer with us, so the baby and I are finding new roads on stroller walks. Craig took advantage of our absence to take on the [Fried Clay 200k](https://bikepacking.com/event/fried-clay-2023/), a self-supported endurance gravel ride created by a friend of ours. He completed it [in one day](https://www.strava.com/activities/8786639612) despite very muddy conditions, earning 50 mi / 90 km of new roads in the process. I'll have to try next year, fingers crossed for better conditions!
 ![](/assets/images/2023-03-31-march-update/fried-Craig.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>90 km / 50 mi of new roads for Craig in middle Georgia.</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
-![](/assets/images/2023-03-31-march-update/fried-Craig-2.jpg){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-03-31-march-update/fried-craig-2.jpg){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Fried Craig after 12 hours of moving time and 14 hours of elapsed time. Photo credit to our friend Kevin Chatham-Stephens.</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
