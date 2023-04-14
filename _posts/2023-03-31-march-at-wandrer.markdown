@@ -22,13 +22,13 @@ The Settings page now has options to change the color of the Traveled and Untrav
 <figcaption>Change the default colors on your big map.</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### New Achievements Added
-Craig added a new long distance trail to Wandrer, the Katy trail in Missouri (US). He's also added many, many new achievements in Paraguay, Denmark, Namibia, and China (literally thousands). We can continue to sneak in new long distance trails over the next several months. If you'd like to nominate your favorite trail to add, [send](mailto:pearl@wandrer.earth) [us]((mailto:craig  @wandrer.earth)) an email.
+Craig added a new long distance trail to Wandrer, the Katy trail in Missouri (US). He's also added many, many new achievements in Paraguay, Denmark, Namibia, and China (literally thousands). We can continue to sneak in new long distance trails over the next several months. If you'd like to nominate your favorite trail to add, [send](mailto:pearl@wandrer.earth) [us](mailto:craig@wandrer.earth) an email.
 
 ![](/assets/images/2023-03-31-march-update/katy-trail.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>The Katy Trail in Missouri has been added as an achievement.</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Your Feedback Wanted: Map Rule Questions
-We have a few map rule questions for your consideration. Your feedback via [email]((mailto:craig  @wandrer.earth)) is appreciated.
+We have a few map rule questions for your consideration. Your feedback via [email](mailto:craig@wandrer.earth) is appreciated.
 1. Should access=permit roads be included? Currently they are excluded, but it seems like in many cases it's easy to obtain access to these roads. Do you have a strong opinion about these roads?
 2. Should we remove highway=trunk roads where sidewalk=no or sidewalk=none in the UK for activities on foot? Other highway=trunk roads would stay in Wandrer for foot activities.
 
