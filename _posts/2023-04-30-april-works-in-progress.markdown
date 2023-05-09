@@ -16,6 +16,16 @@ We're delighted to launch the sale of [Wandrer patches](https://wandrer.earth/pa
 <figcaption>A <a href="https://twitter.com/Peislandergrrl/status/1649084020091928577?s=20">Wandrer sloth patch</a> out in the world.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
+### Wandrer Partnership with the Arabia Mountain National Heritage Area Alliance
+Wandrers local to the Atlanta area have a chance to earn a prize by completing all 30 miles / 50 km of PATH trail inside the [Arabia Mountain National Heritage Area](https://www.nps.gov/places/arabia-mountain-national-heritage-area.htm) <strong>before May 15</strong>. Craig and I had a lovely day a couple of weekends ago exploring the dedicated pedestrian/cyclist trail and look forward to heading back this weekend to finish. Our thanks to the [Arabia Mountain National Heritage Area Alliance](https://arabiaalliance.org/) for the idea and the prizes!
+
+![](/assets/images/2023-05-05-april-update/arabia-mountain-national-heritage-area.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>The yellow highlights the PATH trail inside the Arabia Mountain National Heritage Area Alliance and blue shows what Craig and I have completed. We've got to go back this weekend to finish the challenge!</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+
+![](/assets/images/2023-05-05-april-update/arabia-path.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>The leaves are on the trees and the trail is beautiful!</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+
+
 ### Changes Coming to the Strava 3rd Party Software Development Program
 As you [may have heard](https://communityhub.strava.com/t5/strava-insider-journal/introducing-strava-s-updated-developer-program/ba-p/9061), Strava is updating their 3rd party software development program. We use this program to access your Strava GPS recordings in order to generate the Wandrer data you know and love. We don't know any details about the change other than that we'll need to re-apply for access to the Strava application programming interface (API) within the next 6 months and that our access to Strava data may change. We'll keep you posted once we know more.
 
