@@ -29,8 +29,8 @@ Wandrers local to the Atlanta area have a chance to earn a prize by completing a
 ### Changes Coming to the Strava 3rd Party Software Development Program
 As you [may have heard](https://communityhub.strava.com/t5/strava-insider-journal/introducing-strava-s-updated-developer-program/ba-p/9061), Strava is updating their 3rd party software development program. We use this program to access your Strava GPS recordings in order to generate the Wandrer data you know and love. We don't know any details about the change other than that we'll need to re-apply for access to the Strava application programming interface (API) within the next 6 months and that our access to Strava data may change. We'll keep you posted once we know more.
 
-### Improvements to Never Traveled Roads Infrastructure
-This month Craig invested some time into improving how we show the Never Traveled roads to upgraded Wandrers to make loading faster and the data more reliable. This type of change usually isn't visible to you (at least, that's our goal), but it helps keep the site running smoothly.
+### Improvements to Untraveled Roads Infrastructure
+This month Craig invested some time into improving how we show the untraveled roads and never-traveled roads to upgraded Wandrers to make loading faster and the data more reliable. This type of change usually isn't visible to you (at least, that's our goal), but it helps keep the site running smoothly.
 
 ### Links to Arena Dashboards from the Big Map
 I added links to Arena dashboards to the Big Map pop-up window. We hope these links will make it a little easier to find your progress in different regions. See below for an example.
