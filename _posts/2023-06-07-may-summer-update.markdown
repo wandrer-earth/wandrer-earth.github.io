@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Summer is here!"
-date:   2023-06-07  
+date:   2023-06-30  
 author: Pearl
 tags: updates
 cover: "/assets/images/2023-06-08-may-update/extension-with-friends.png"
