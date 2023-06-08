@@ -4,13 +4,7 @@ title:  "Summer is here!"
 date:   2023-06-07  
 author: Pearl
 tags: updates
-cover: "/assets/images/2023-05-05-april-update/sloth-on-bag.jpg"
-carousels:
-  - images:
-    - image: "/assets/images/2023-06-08-may-update/lonely-extension.png"
-    - image: "/assets/images/2023-06-08-may-update/adding-friend.png"
-    - image: "/assets/images/2023-06-08-may-update/extension-with-friends.png"
-
+cover: "/assets/images/2023-06-08-may-update/extension-with-friends.png"
 ---
 
 We've made it to early June and summer is in full force here in the northern hemisphere. We're eating watermelon, splashing in the pool, and taking advantage of the extra light to squeeze in a little more exploration. I've been sneaking in work during our little 10 month old's naptimes and it feels good to start to have a bit more consistency as she settles into a nap routine.
@@ -37,7 +31,7 @@ Craig has added a new feature to the Wandrer browser extension. If you update yo
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Small-batch artisanal Wandrer stickers are here
-We heard from a few folks who were more interested in sticker versions of our [patches](https://wandrer.earth/patches). I ordered a small batch of stickers as a test run. They are matte, 3"/7.5cm circles and pleasant muted colors. The cost is $5 per sticker including shipping. If you're interested in buying a sticker, please [email me](mailto:pearl@wandrer.earth) to start your order. Hurry, we only have 10 of each! If demand is high, we'll place a larger batch order.
+We heard from a few folks who were more interested in sticker versions of our [patches](https://wandrer.earth/patches). I ordered a small batch of stickers as a test run. They are matte, 3"/7.5cm circles and pleasant muted colors. The cost is $5 per sticker including shipping. If you're interested in buying a sticker(s), please [email me](mailto:pearl@wandrer.earth) to start your order. Hurry, we only have 10 of each! If demand is high, we'll place a larger batch order.
 
 ![](/assets/images/2023-06-08-may-update/stickers.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Our new stickers, available for sale by sending an email to <a href="mailto:pearl@wandrer.earth">me</a>.
