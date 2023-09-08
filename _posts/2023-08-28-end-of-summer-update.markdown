@@ -12,11 +12,11 @@ Well, we blinked and suddenly we have a one-year old and the days are getting sh
 Wandrer's login page, Dashboard, and Big Map are getting a fresh design! For the new login page, we are looking for testimonials about how much you love Wandrer. If you're willing to be featured, please [send me](mailto:pearl@wandrer.earth) ~ 1-2 sentences saying what you like about Wandrer and a picture of yourself out exploring. I will share a preview of what would be posted on our login page before I publish anything to the website.
 
 ![](/assets/images/2023-09-08-summer-wrap-up/splashpage-update.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
-<figcaption>More design updates are coming to Wandrer. [Email me](mailto:pearl@wandrer.earth) if you love Wandrer and want to be featured on our login page!
+<figcaption>More design updates are coming to Wandrer. <a href='mailto:pearl@wandrer.earth'>Email me</a> if you love Wandrer and want to be featured on our login page!
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Map updates have returned! (And will take some time to process)
-As I mentioned in my [update at the beginning of the summer](https://news.wandrer.earth/2023/06/12/may-summer-update.html), Craig spent the summer updating Wandrer's map data structure. This upgrade is necessary for features that we're excited to roll out. Happily, Craig finished transitioning all Wandrers over to the new data method a few weeks ago. Now we're processing map updates again! These updates are moving slowly to begin -- we have many to do and are being extra careful with accuracy since this data structure is new. Please be patient and we promise to get all the updates in eventually.
+As I mentioned in my [update at the beginning of the summer](https://news.wandrer.earth/2023/06/12/may-summer-update.html), Craig spent the summer updating Wandrer's map data structure. This upgrade is necessary for features that we're excited to roll out in the future. Happily, Craig finished transitioning all Wandrers over to the new data structure a few weeks ago. Now we're processing map updates again! These updates are moving slowly to begin -- we have many to do and are being extra careful with accuracy since this data structure is new. Please be patient and we promise to get all the updates in eventually.
 
 ![](/assets/images/2023-09-08-summer-wrap-up/map-updates-are-back.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>We're updating map data again! But it may take a while before we're able to process your region of interest... thank you for your patience!
@@ -57,8 +57,8 @@ I've really enjoyed mailing our patches and stickers all over the world. We are 
 
 ### Lots of media recs for you
 Finally, we've been collecting a whole bunch of articles, interviews, and maps relevant to the Wandrering soul:
-- Strava mentioned Wandrer in [this blog post](https://stories.strava.com/articles/how-to-complete-an-every-single-street-challenge-using-strava) about completing every single street in an area.
-- NYTimes wrote about [the beauty of wandering aimlessly](https://www.nytimes.com/2023/06/19/travel/walking-travel-cities.html) while traveling
+- Greg Heil at Strava mentioned Wandrer as a useful tool to help complete every single street in an area in [this blog post](https://stories.strava.com/articles/how-to-complete-an-every-single-street-challenge-using-strava)
+- Stephanie Rosenbloom wrote in the NYTimes about [the beauty of wandering aimlessly](https://www.nytimes.com/2023/06/19/travel/walking-travel-cities.html) while traveling
 - Craig Mod wrote a [love letter to his electric bike](https://craigmod.com/essays/electric_bikes/)
 - Metro Manila is [trying to maintain the momentum](https://grist.org/international/can-manilas-cycling-boom-survive-a-return-to-car-traffic/) of a pandemic-initiated cycling boom
 - A Wandrer [rode every single street in Seattle](https://crosscut.com/news/2023/07/one-mans-mission-cycle-all-seattle-street-street)
