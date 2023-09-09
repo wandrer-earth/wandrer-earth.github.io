@@ -48,7 +48,7 @@ The Wandrer Browser Extension now labels Untraveled Roads that are either bike-o
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Get them before they're gone! Only six bike sloth patches left in stock
-I've really enjoyed mailing our patches and stickers all over the world. We are down to the very last bike sloth patches, with only six remaining in stock. At the moment, we don't have plans to re-stock (unless there is a large demand), so if you want a bike sloth patch, don't wait! We do have plenty of hiking capybara and jogging tapir patches. For stickers, we only have the bike sloth design available right now (although if you want a hiking capybara or jogging tapir sticker, [let me know](mailto:pearl@wandrer.earth) - stickers are easier to restock than patches).
+I've really enjoyed mailing our patches and stickers all over the world. We are down to the very last [bike sloth patches](https://wandrer.earth/patches), with only six remaining in stock. At the moment, we don't have plans to re-stock (unless there is a large demand), so if you want a bike sloth patch, don't wait! We do have plenty of hiking capybara and jogging tapir patches. For stickers, we only have the bike sloth design available right now (although if you want a hiking capybara or jogging tapir sticker, [let me know](mailto:pearl@wandrer.earth) - stickers are easier to restock than patches).
 
 ![](/assets/images/2023-09-08-summer-wrap-up/the-last-sloth-patches.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>The last of the bike sloth patches. Don't delay your order if you'd like one.
