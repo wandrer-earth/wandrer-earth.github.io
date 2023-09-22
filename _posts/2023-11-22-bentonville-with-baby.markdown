@@ -29,7 +29,7 @@ It was a treat to stay somewhere with so many miles of singletrack mountain biki
 <figcaption>Tons of singletrack available a short ride from downtown. Red is untraveled, blue is what I rode during our week-long trip. Captured using the Wandrer Browser Extension in RideWithGPS.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-One thing that surprised and delighted me was the multitude of fun beginner trails in Bentonville. I want more people to experience the joy of riding a bike through the woods and to realize it doesn't have to involve riding down a scary, intense rock wall with a big mandatory jump (although if you want that, Bentonville has it too). I had fun getting some baby air on the jump lines and riding progressively skinnier built feaures. Bentonville would be a wonderful place to learn to ride.
+One thing that surprised and delighted me was the multitude of fun beginner trails in Bentonville. I want more people to experience the joy of riding a bike through the woods and to realize it doesn't have to involve riding down a scary, intense rock wall with a big mandatory jump (although if you want that, Bentonville has it too). I had fun getting some baby air on the jump lines and riding progressively skinnier built features. Bentonville would be a wonderful place to learn to ride. As an extra bonus, while we were there we got to meet [Marley Blonsky](https://lifeontwowheels.space/) of [All Bodies On Bikes](https://www.allbodiesonbikes.com/), whose work fostering a size inclusive bike community I've admired for a few years now. There are definitely some cool cycling community leaders living in the area.
 
 ![](/assets/images/2023-09-22-bentonville-trip/coler-park.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>My favorite local Bentonville park, Coler Mountain Bike Preserve, included a coffee shop, a campground, and courses specifically designed for kids/teens to learn to race.
@@ -50,6 +50,8 @@ One thing that surprised and delighted me was the multitude of fun beginner trai
 Another thing we found in Bentonville was construction! We did a little bit of Wandrer'ing the streets and it seemed like every corner had a "Road Closed" and a "Detour" sign. The area is growing *very* quickly, with an average of ~ 10 people PER DAY moving into the region. (The [Finding NWA](https://findingnwa.com/incentive/) promotional organization recently offered incentives of $10,000 and a bicycle to encourage remote workers to relocate to the area). I'm not ready to move there myself, but I get the Bentonville appeal.
 
 {% include carousel.html width="85" height="85" unit="%" duration="5" number="1" %}
+<figcaption>We saw a lot of construction in the area.
+</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
 ### Grandma makes it possible
 One thing that has become more difficult since having our little baby is finding time to mountain bike together. We can easily bike commute around the city using our bike trailer, but our little babykins makes it very clear that she doesn't like to be jostled around on bumpy trails. Fortunately for us, my mom is retired and agreed to join us on the trip to take care of the baby while we rode. It was sweet to see them spending so much quality time together, walking to playgrounds and the art museum every day. We also lucked into a vacation rental with lots of fun toys that the bb explored (and scattered) every day. I'm so happy and grateful that we could share our vacation with my mom. If she hadn't been available, we would have switched off riding and had a good time - but it was more fun to ride together.
@@ -68,7 +70,7 @@ One of the most unexpected aspects of this trip was the opportunity to assess my
 <figcaption>At the end of a 4hr+ ride - definitely the hardest effort I've put out since pregnancy.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-![](/assets/images/2023-09-22-bentonville-trip/riding-for-new-miles.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-09-22-bentonville-trip/riding-for-new-miles.PNG){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>It was all worth it for the new miles.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
@@ -79,6 +81,6 @@ All in all, we had a wonderful week exploring Bentonville, with 88.6 new miles /
 <figcaption>Baby's first pump track.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-![](/assets/images/2023-09-22-bentonville-trip/unridden-trail-slaughter-pen.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-09-22-bentonville-trip/unridden-trail-slaughter-pen.PNG){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>So many unridden trails! It would take time and dedication to get to 100% of the trails in the area.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
