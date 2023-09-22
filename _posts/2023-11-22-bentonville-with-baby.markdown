@@ -29,9 +29,9 @@ It was a treat to stay somewhere with so many miles of singletrack mountain biki
 <figcaption>Tons of singletrack available a short ride from downtown. Red is untraveled, blue is what I rode during our week-long trip. Captured using the Wandrer Browser Extension in RideWithGPS.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-One thing that surprised and delighted me was the multitude of fun beginner trails in Bentonville. I want more people to experience the joy of riding a bike through the woods and to realize it doesn't have to involve riding down a scary, intense rock wall with a big mandatory jump (although if you want that, Bentonville has it too). I had fun getting some baby air on the jump lines and riding progressively skinnier built features. Bentonville would be a wonderful place to learn to ride. As an extra bonus, while we were there we got to meet [Marley Blonsky](https://lifeontwowheels.space/) of [All Bodies On Bikes](https://www.allbodiesonbikes.com/), whose work fostering a size inclusive bike community I've admired for a few years now. There are definitely some cool cycling community leaders living in the area.
+One thing that surprised and delighted me was the multitude of fun beginner trails in Bentonville. I want more people to experience the joy of riding a bike through the woods and to realize it doesn't have to involve riding down a scary, intense rock wall with a big mandatory jump (although if you want that, Bentonville has it too). I had fun getting some baby air on the jump lines and riding progressively skinnier built features. Bentonville would be a wonderful place to learn to ride.
 
-![](/assets/images/2023-09-22-bentonville-trip/coler-park.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2023-09-22-bentonville-trip/coler-park.PNG){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>My favorite local Bentonville park, Coler Mountain Bike Preserve, included a coffee shop, a campground, and courses specifically designed for kids/teens to learn to race.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
@@ -46,6 +46,13 @@ One thing that surprised and delighted me was the multitude of fun beginner trai
 ![](/assets/images/2023-09-22-bentonville-trip/fun-built-stuff.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>The trails featured a lot of fun built features.
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+
+As an extra bonus, while we were there we got to meet [Marley Blonsky](https://lifeontwowheels.space/) of [All Bodies On Bikes](https://www.allbodiesonbikes.com/), whose work fostering a size inclusive bike community I've admired for a few years now. There are definitely some cool cycling community leaders living in the area.
+
+![](/assets/images/2023-09-22-bentonville-trip/all-butts-on-bikes.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>I want this <a href="https://www.allbodiesonbikes.com/">All Bodies on Bikes</a> sweatshirt. Available in their <a href="https://www.bonfire.com/all-butts-on-bikes/?productType=b2ffe678-62bc-415a-be70-acc2e9b75bbc">shop</a>!
+</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+
 
 Another thing we found in Bentonville was construction! We did a little bit of Wandrer'ing the streets and it seemed like every corner had a "Road Closed" and a "Detour" sign. The area is growing *very* quickly, with an average of ~ 10 people PER DAY moving into the region. (The [Finding NWA](https://findingnwa.com/incentive/) promotional organization recently offered incentives of $10,000 and a bicycle to encourage remote workers to relocate to the area). I'm not ready to move there myself, but I get the Bentonville appeal.
 
