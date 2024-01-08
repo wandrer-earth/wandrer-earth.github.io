@@ -37,7 +37,7 @@ In this most recent update, the entire planet gained **4.23M** new km / **2.62M*
 
 ### Items for the next map update
 
-I'm planning to do another map update sometime in January, and there are a few tweaks planned for this next one. None of this is set in stone, but your thoughts are welcome.
+I'm planning to do another map update sometime in January, and there are a few tweaks planned for this next one. None of this is set in stone and your thoughts are welcome.
 
 * Start removing ways tagged `access=delivery`
 * Start including ways tagged `access=permit`. Like many OpenStreetMap things, usage of this tag is not 100% identical everywhere, but according to the [wiki](https://wiki.openstreetmap.org/wiki/Tag:access%3Dpermit), "this tag should be used in cases where a permit is required, but is routinely granted to everyone requesting it." That feels like a manageable situation.
