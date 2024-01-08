@@ -9,7 +9,7 @@ cover: "/assets/images/2024-01-08-hi-from-hawaii-2/hawaii-2-50.png"
 
 Hello from the Wandrer Worldwide Headquarters, currently located in beautiful [Hawaii 2](https://www.openstreetmap.org/way/150538916) in Waldo County, Maine, USA. Never heard of Hawaii 2? Well, it's kind of exclusive. We don't like people finding out about it really. Maybe think of it as an exciting sequel to normal boring Hawaii?
 
-We drove past the island of Hawaii 2 this summer on the way to [Liberty Graphics](https://lgtees.com/) and, as someone who looks at maps all day, I filed it away in my list of interesting places in the world, and referencing it somehow in this blog post seemed like fun.
+We drove past the island of Hawaii 2 this summer on the way to [Liberty Graphics](https://lgtees.com/). As someone who looks at maps all day, I filed it away in my list of interesting places in the world, and referencing it somehow in this blog post seemed like fun.
 
 ![](/assets/images/2024-01-08-hi-from-hawaii-2/liberty.jpg){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Liberty Graphics, with a message we can all support
