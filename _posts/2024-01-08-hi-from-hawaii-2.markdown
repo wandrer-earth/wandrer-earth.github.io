@@ -41,7 +41,7 @@ I'm planning to do another map update sometime in January, and there are a few t
 
 * Start removing ways tagged `access=delivery`
 * Start including ways tagged `access=permit`. Like many OpenStreetMap things, usage of this tag is not 100% identical everywhere, but according to the [wiki](https://wiki.openstreetmap.org/wiki/Tag:access%3Dpermit), "this tag should be used in cases where a permit is required, but is routinely granted to everyone requesting it." That feels like a manageable situation.
-* Start removing ways tagged `bicycle=yes` and `footway=sidewalk` in the US. There are a few cities in the United States that allow bicycles to ride on the sidewalk (in addition to the road) and some of these sidewalks are tagged `bicycle=yes`, which is redundant.
+* Start removing ways tagged `bicycle=yes` and `footway=sidewalk` in the US. There are a few cities in the United States that allow bicycles to ride on the sidewalk (in addition to the road) and some of these sidewalks are tagged `bicycle=yes`, which means they'd be redundantly included under the old map filtering rules.
 * Addition of `service=alley` in Germany. This one definitely needs some further examination!
 
 ### Big map redesign
