@@ -1,8 +1,9 @@
 name: Wandrer News
+title: Wandrer News
 description: News, updates, and reviews about Wandrer.Earth
 meta_description: News, updates, and reviews about Wandrer, the outdoor game you win by going places you've never been before.
 url: https://news.wandrer.earth
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-feed
 paginate: 4
