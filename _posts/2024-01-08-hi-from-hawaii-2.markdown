@@ -15,7 +15,7 @@ We drove past the island of Hawaii 2 this summer on the way to [Liberty Graphics
 <figcaption>Liberty Graphics, with a message we can all support
 </figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-But apparently the story is [even weirder](https://en.wikipedia.org/wiki/Hawaii_2) than I thought, as the island was actually purchased in 2014 as part of a joke (?) fundraiser by the company behind the game Cards Against Humanity. They offered claims to an individual one-square-foot parcel on the island as a donation prize and this got them in all sorts of trouble with code violations around commercial use of the island. The town of Liberty (population 934, 2022 revenue of [$3.5M](https://libertymaine.us/wp-content/uploads/2023/03/2022-Annual-Report.pdf)), threatened Cards Against Humanity with fines of $625M per day until those violations were fixed.
+But apparently the story is [even weirder](https://en.wikipedia.org/wiki/Hawaii_2) than I thought, as the island was actually purchased in 2014 as part of a joke (?) fundraiser by the company behind the game Cards Against Humanity. They offered claims to individual one-square-foot parcels on the island as a donation prize and this got them in all sorts of trouble with code violations around commercial use of the island. The town of Liberty (population 934, 2022 revenue of [$3.5M](https://libertymaine.us/wp-content/uploads/2023/03/2022-Annual-Report.pdf)), threatened Cards Against Humanity with fines of $625M per day until those violations were fixed.
 
 So maybe Hawaii 2 is actually pretty exclusive? Liberty, Maine certainly puts a high price tag on people being there.
 
