@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Kind of Wandrer Are You?"
-date:   2019-08-30
+date:   2024-01-20
 author: Charlie LaNoue
 tags: community
 cover: "/assets/images/what-kind/dirtysheets.jpg"
@@ -11,7 +11,7 @@ If you’ve stumbled your way onto this blog post, chances are you’re already 
 
 If you’re like me, you’ve scoped out the [Leaderboard](https://wandrer.earth/a/earth) situation and maybe even clicked on a few Wandrer [athletes](https://wandrer.earth/athletes/4#11.71/33.7889/-84.3405) and checked their [map](https://wandrer.earth/athletes/10889#11.01/30.2857/-97.7336) out – that’s part of the fun of the platform. What I noticed: not everyone does it the same.
 
-In the wise words of Desmond Tutu, “There is only one way to eat an elephant, a bite at a time.” For those not familiar with the platform, adding new roads to one’s Wandrer map is sort of like eating an elephant. WIth over 64 million kilometers (40 million miles) of roads, paths, streets and alleyways to explore on Earth, there’s no way to see it all. Not even close. In fact, the current top Wandrer – having covered a mindblowing 123,000 unique kilometers (77,000 unique miles) on Earth – can only claim to have pedaled down 0.18% of our planet’s roadways.
+In the wise words of Desmond Tutu, “There is only one way to eat an elephant, a bite at a time.” For those not familiar with the platform, adding new roads to one’s Wandrer map is sort of like eating an elephant. With over 64 million kilometers (40 million miles) of roads, paths, streets and alleyways to explore on Earth, there’s no way to see it all. Not even close. In fact, the current top Wandrer – having covered a mindblowing 123,000 unique kilometers (77,000 unique miles) on Earth – can only claim to have pedaled down 0.18% of our planet’s roadways.
 
 For this reason Wandrer is an unparalleled experience; it’s a project that one slowly adds to for years, and never finishes. Given this unique scenario, it should come as no surprise that athletes have a wide range of methods to go about wandring.  
 
@@ -31,11 +31,29 @@ They treat their own locale as a dusty floor to be carefully swept through, idea
 
 The Completionists can also be diligent editors of [OpenStreetMap](https://openstreetmap.org), making sure that every detail of every road is correct. They're making the map better for all of us, and we salute you.
 
-## The Straight Liner
+## The Tile Hunter
 
-The road can curve a little, a slight jog here or there is permissible – but it better cover some serious ground to be considered by this cohort. The Straight Liners have an obsession with getting big lines on their map. You know, the kind you could see from outer space or a hot air balloon. It gives them a rush to know their Big Map just took on a sort of battle scar. Like they left an irreversible gash on the Big Map that now has to be reckoned with at any zoom level.
+![](/assets/images/what-kind/jf.png){:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
+<figcaption>Not quite a grid, but you can almost see each individual row
+</figcaption>{:style="width: 85%; display:block; margin-left:auto; margin-right:auto"}
 
-Beware, once athletes get on this path, it can easily snowball. Maybe it starts out innocently enough with a simple ride across the city. However, if left unchecked, it could easily spiral into full blown multi-day bike tours to far-flung destinations. You’ve been warned.
+The original, and still very popular, "go everywhere" game, a lot of wandrers are doing double duty: not just wandring to find new roads, but maybe occasionally throwing their bikes into a canoe and paddling it across a lake to get that [tile](https://rideeverytile.com/) coverage too.
+
+The basic concept is: divide the planet up in to a grid of square tiles, each about 1 mile square. You earn a tile just by visiting it, and you can then see how big you can get your "max square" (the biggest square of tiles with no unvisited tiles within it)
+
+For no reason at all, I'm reminded of a passage from the book _Arbitrary Stupid Goal_ by Tamara Shopsin:
+
+> My father knew a family named Wolfawitz who wanted to go on vacation but didn't know where.
+
+> It hit them. Take a two-week road trip driving to as many towns, parks, and counties as they could that contained their last name: Wolfpoint, Wolfville, Wolf Lake, etc.
+
+> They read up and found things to do on the way to these Wolf spots: a hotel in a railroad car, an Alpine slide, a pretzel factory, etc.
+
+> The Wolfawitzes ended up seeing more than they planned. Lots of unexpected things popped up along the route.
+
+> When they came back from the vacation, they felt really good. It was easily the best vacation of their lives, and they wondered why.
+
+> My father says it was because the Wolfawitzes stopped trying to accomplish anything. They just put a carrot in front of them and decided the carrot wasn't that important but chasing it was.
 
 ## The Aimless Cruiser
 
@@ -53,7 +71,7 @@ A cul-de-sac? Pfffft… no time for that nonsense. These goal-driven road warrio
 
 Maybe they have a set destination in mind and take a different route there and back to maximize the new-roads-factor. Or maybe they are looping multiple towns together (see Town Collectors below) and returning back home a different route. When their friends ask them to ride along on an “out and back” route, Radial Loopers can’t help but cringe at the wasted opportunity of not taking a different way back home.
 
-Similar to the Straight Liners, Radial Loopers tend to escalate their pursuits as they progress. Once they’ve been an hour out in every cardinal (and let’s be honest, intercardinal) direction, they start expanding their Big Map farther and farther out from their home base. After a while, a Radial Looper’s Big Map might resemble a bird nest, assuming a dense enough urban core.
+Radial Loopers tend to escalate their pursuits as they progress. Once they’ve been an hour out in every cardinal (and let’s be honest, intercardinal) direction, they start expanding their Big Map farther and farther out from their home base. After a while, a Radial Looper’s Big Map might resemble a bird nest, assuming a dense enough urban core.
 
 ## The Nomadic Tourist
 
