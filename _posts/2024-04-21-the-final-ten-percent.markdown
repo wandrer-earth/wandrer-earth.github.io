@@ -7,7 +7,7 @@ tags: community
 cover: "/assets/images/2024-04-21-final-ten-percent/haslet-focused.png"
 ---
 
-It’s alll fun and games setting out at first in a new town when every road is new. But once the percentage gets high, the going gets… weird.
+It’s all fun and games setting out at first in a new town when every road is new. But once the percentage gets high, the going gets… weird.
 
 The feeling of going to a new city and riding around aimlessly is wonderful – every which way you turn you’re seeing something new, and of course adding blue lines to your Big Map on Wandrer. What I’m about to describe is basically the opposite of that.
 
