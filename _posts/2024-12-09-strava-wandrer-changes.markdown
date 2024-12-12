@@ -7,7 +7,7 @@ tags: features updates
 cover: "/assets/images/2024-12-09-strava-wandrer-changes/transition.webp"
 ---
 
-Well, it's been a busy month here at Wandrer HQ. In mid-November, [Strava announced a change](https://press.strava.com/articles/updates-to-stravas-api-agreement) to their API terms. In the interest of stronger user privacy, they added a restriction that any third-party apps may only display a user's Strava activity data to that specific user. If you missed it at the time, this announcement caused quite a stir on Wandrer forums (Reddit [1](https://www.reddit.com/r/wandrer/comments/1guaoo1/new_strava_connected_apps_policy/) [2](https://www.reddit.com/r/wandrer/comments/1guih12/is_this_the_end_of_wandrer_leaderboards/), [Strava](https://www.strava.com/clubs/528504/posts/33559707)) and social media (a summary is available on [Tech Radar](https://www.techradar.com/health-fitness/strava-could-soon-stop-working-with-some-of-your-third-party-apps-heres-what-you-need-to-know)). At that time, Strava reached out to Craig to discuss the changes to the API and what they specifically want us to do at Wandrer in order to comply.
+Well, it's been a busy month here at Wandrer HQ. In mid-November, [Strava announced a change](https://press.strava.com/articles/updates-to-stravas-api-agreement) to their API terms. In the interest of stronger user privacy, they added a restriction that any third-party apps may only display a user's Strava activity data to that specific user. If you missed it at the time, this announcement caused quite a stir on Wandrer forums (Reddit [1](https://www.reddit.com/r/wandrer/comments/1guaoo1/new_strava_connected_apps_policy/) [2](https://www.reddit.com/r/wandrer/comments/1guih12/is_this_the_end_of_wandrer_leaderboards/), [Strava](https://www.strava.com/clubs/528504/posts/33559707)) and social media (a summary is available on [Tech Radar](https://www.techradar.com/health-fitness/strava-could-soon-stop-working-with-some-of-your-third-party-apps-heres-what-you-need-to-know)). At that time, Strava reached out to Craig to discuss their new policies and what they specifically want us to change.
 
 First, the Strava API team mandated that new users be asked to actively opt in to the public leaderboards. Easy enough.
 
@@ -28,4 +28,6 @@ What does this mean in summary?
 2. Leaderboard visibility is now opt-in by default for new Wandrers.
 3. Leaderboard competitions will likely change in the next few months to be available only to Wandrers with a non-Strava account linked. Please let us know your feedback on if this seems like an important move.
 4. It will soon be possible to link your RideWithGPS and Garmin accounts to Wandrer.
-5. We appreciate your support! Please be patient as we work to comply with Strava's terms AND continue to improve Wandrer. We've got a bunch of new things to build and figure out here.
+5. If competing in the leaderboards or sharing your detailed Wandrer map are not important to you, then you don't need to do anything.
+
+Finally, we appreciate your support! We received so many kind messages when it became apparent that we'd need to make changes to comply with Strava's new terms and they really boost morale. Our goal is to make this transition as seamless as possible as we comply with Strava's terms and add new features to make Wandrer better.
