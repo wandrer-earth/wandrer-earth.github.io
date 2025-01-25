@@ -15,6 +15,8 @@ The folks at RideWithGPS have been working hard these past few weeks getting som
 
 If you want to give it a shot, RideWithGPS has a helpful data import guide [here](https://ridewithgps.com/journal/7602-migrate-your-ride-data-to-ride-with-gps).
 
+RideWithGPS are also offering a free 30-day premium upgrade for folks that connect their RideWithGPS account on Wandrer, and this will give you access to their activity center tools, allowing for bulk updating of activity types, gear, etc. for if you're doing a large data import.
+
 ## Duplicate activity data
 
 Now that Wandrer supports data coming in from multiple sources, there comes the possibility of syncing the same activity from different places. The current plan is that Wandrer will de-duplicate any activities that occur within +/- 1 minute of each other (on the basis that you can only be in one place at a time).
