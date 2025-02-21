@@ -22,7 +22,7 @@ Hi folks! A bit late to the game here, but I thought it would be nice to do a bi
 * 9,956,804 activities processed in 2024
 * 30,924,894 new miles / 49,768,792 new km covered in 2024
 * 30,707 new places added to Wandrer in 2024
-* At the beginning of 2024, Wandrers had been two every country but 2: Eritrea and Equatorial Guinea. Eritrea has now been visited, so there's only one left! You have your marching orders.
+* At the beginning of 2024, Wandrers had been to every country but 2: Eritrea and Equatorial Guinea. Eritrea has now been visited, so there's only one left! You have your marching orders.
 * 100,000 active Wandrers!
 * 5 OpenStreetMap map updates
 * Lots of [nice](https://escapecollective.com/the-silly-online-cycling-battle-that-became-so-much-more/) [stories](https://old.reddit.com/r/wandrer/comments/1d76r8l/50_done_toronto/) [about](https://old.reddit.com/r/wandrer/comments/1cwyegj/just_100ed_my_first_town_starting_small/) [people](https://www.strava.com/clubs/528504/posts/33592491) [going](https://theradavist.com/riding-every-street-in-london/) [places](https://www.strava.com/clubs/528504/posts/32024459) [they've](https://www.gofundme.com/f/everydeadendLA) [never](https://www.strava.com/clubs/528504/posts/31727741) [been](https://old.reddit.com/r/wandrer/comments/1dfgu0r/appreciation_post_i_suffered_a_brain_injury_a_few/) [before](https://old.reddit.com/r/wandrer/comments/1ewptka/if_im_not_mistaken_jan_is_the_only_person_to_have/).
