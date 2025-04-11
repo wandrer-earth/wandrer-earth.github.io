@@ -111,7 +111,7 @@ Rather than dwell on which name is longest and the inevitible split into Team Wo
 ![](/assets/images/2025-03-30-longest-street-name/woodrow_cox.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 <figcaption>Woodrow T. Cox (from the Bataan Project)
 </figcaption>
-The [Bataan Project](https://bataanproject.com/bataan-project-story/) is a fascinating, "old internet" website that documents the history of 192nd and 194th Tank Batallions and how many of the members of these batallions ended up in the [Bataan Death March](https://en.wikipedia.org/wiki/Bataan_Death_March) in World War II.
+The [Bataan Project](https://bataanproject.com/bataan-project-story/){:target="_blank"} is a fascinating, "old internet" website that documents the history of 192nd and 194th Tank Batallions and how many of the members of these batallions ended up in the [Bataan Death March](https://en.wikipedia.org/wiki/Bataan_Death_March){:target="_blank"} in World War II.
 
 They have a (24,000 word!) [article](https://bataanproject.com/cox-pvt-woodrow-t/){:target="_blank"} about Woodrow T. Cox, with much of it detailing his batallion's voyage to the Philippines, capture by the Japanese, and the conditions at their prison camp. Woodrow doesn't appear a whole lot but it's still an interesting document about an event I had never heard of.
 
