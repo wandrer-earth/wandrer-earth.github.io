@@ -21,7 +21,7 @@ To start editing, visit the page of any activity:
 
 And click the pencil icon in the bottom left:
 
-![](/assets/images/2025-08-14-activity-editor/pencil.webp){:style="width: 100%; display:block; margin-left:auto; margin-right:auto"}
+![](/assets/images/2025-08-14-activity-editor/pencil.webp){:style="display:block; margin-left:auto; margin-right:auto"}
 
 It will start edit mode and open a small window with information about your edits:
 
@@ -43,4 +43,4 @@ When you're done editing, click Save, and your changes will be processed. The pa
 
 ![](/assets/images/2025-08-14-activity-editor/finished-editing.webp){:style="width: 100%; display:block; margin-left:auto; margin-right:auto"}
 
-This is currently an upgraded-only feature. Happy editing!
+This is currently an upgraded-only (and desktop-only) feature. Happy editing!
