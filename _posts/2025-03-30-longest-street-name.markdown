@@ -3,7 +3,7 @@ layout: post
 title:  "What's the longest street name in the world?"
 date:   2025-03-30
 author: Craig
-tags:  updates
+tags:  osm
 cover: "/assets/images/2025-03-30-longest-street-name/call-me-by-your-name.jpg"
 ---
 
@@ -26,7 +26,7 @@ There are 3 main objects in OpenStreetMap:
 
 Since we're looking at streets and their names, we'll be dealing with ways.
 
-Every node/way/relation can have data associated with it: this way is a road and it's a motorway and it has 6 lanes and it's name is Route 220. Or this way is forest road and it's 2 meters wide and it's unpaved and it's only open between May and September. Data about each way in OSM  is stored as "tags". So you might have a `surface` tag that says `asphalt`, or a `name` tag that says `Main Street`, or a `lanes` tag that says `4`.
+Every node/way/relation can have data associated with it: this way is a road and it's a motorway and it has 6 lanes and its name is Route 220. Or this way is forest road and it's 2 meters wide and it's unpaved and it's only open between May and September. Data about each way in OSM  is stored as "tags". So you might have a `surface` tag that says `asphalt`, or a `name` tag that says `Main Street`, or a `lanes` tag that says `4`.
 
 ## Caveats
 
@@ -69,7 +69,7 @@ And so forth. A lot of these are very utilitarian "names" that are probably bett
 
 3. 🏅 3rd place, at 230 characters is [way 549249106](https://www.openstreetmap.org/way/549249106){:target="_blank"}: "SECRETS OF SPANISH FLORIDA - A SECRETS OF THE DEAD SPECIAL Archaeologists, scientists and historians reveal the little-known history of America's Spanish colonists who settled in Florida in 1565, long before Jamestown or Plymouth".
 
-    There's something very charming here: the all-caps, the _pulling-back-the-curtain_ of it. Is it a sandy track in the swamp or a podcast? It's great either way. (Turns out it's actaully a [PBS episode](https://www.pbs.org/wnet/secrets/secrets-spanish-florida-synopsis/3626/), and this way is in Alaska!)
+    There's something very charming here: the all-caps, the pulling-back-the-curtain of it. Is it a sandy track in the swamp or a podcast? It's great either way. (Turns out it's actaully a [PBS episode](https://www.pbs.org/wnet/secrets/secrets-spanish-florida-synopsis/3626/), and this way is in Alaska!)
 
 So although there's a bunch of weird and wrong stuff here, I think probably most names are correct in OSM, and I've started tracking them for fun on Wandrer. You can see your longest completed street in the points breakdown in your stats at [https://wandrer.earth/dashboard/stats](https://wandrer.earth/dashboard/stats) -- you'll earn 1 point per character! Our current leader is [way 550626032](https://www.openstreetmap.org/way/550626032), with 224 points.
 
