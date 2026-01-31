@@ -7,7 +7,7 @@ tags:  tech
 cover: "/assets/images/2026-01-30-wandrer-untraveled-roads/traveled-untraveled-header.png"
 ---
 
-*(A version of this post also appears on the Strava Community Hub)*
+*(A version of this post also appears on the [Strava Community Hub](https://communityhub.strava.com/insider-journal-9/developer-voices-the-evolution-of-wandrer-s-untraveled-roads-feature-12652))*
 
 Wandrer is the game you win by exploring new places. The main rule is that you get credit for every road you travel, but only once. In order to progress, you have to go places you've never been before.
 
