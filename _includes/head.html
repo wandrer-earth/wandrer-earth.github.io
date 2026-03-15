@@ -9,4 +9,11 @@
   <meta name="author" content="Wandrer">
 
   <link rel="stylesheet" href="/assets/css/styles.css">
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
 </head>
