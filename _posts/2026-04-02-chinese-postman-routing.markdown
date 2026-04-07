@@ -27,13 +27,13 @@ To create a route, open the toolbar in the top right of the big map and choose R
 
 Once there, you can search for a place by name or draw your own shape by clicking the pencil icon:
 
-
+![](/assets/images/2026-04-02-100-routing/route-draw.webp){:style="width: 50%; display:block; margin-left:auto; margin-right:auto"}
 
 You can also make a route from a given selected area:
 
 ![](/assets/images/2026-04-02-100-routing/make-route.webp){:style="width: 50%; display:block; margin-left:auto; margin-right:auto"}
 
-One thing about drawing the boundary: the **start** and **end** points of a road must be contained within your area to be routable. If either one is outside of your boundary, even by a little bit, it will not be included.
+One thing about the route boundary: the **start** and **end** points of a road must be contained within your area to be routable. If either one is outside of your boundary, even by a little bit, it will not be included.
 
 However you get there, you'll then be presented with a window to set some parameters about your route: activity type, start point, end point, and whether to try to avoid already-traveled roads. Avoiding already-traveled roads is a "best-effort" attempt and may still result in covering already-traveled roads.
 
